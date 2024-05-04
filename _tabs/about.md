@@ -4,5 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+**Welcome to my blog,** where every moment is an ***opportunity*** to learn something new, where life unfolds with arms wide open, embracing the limitless bounds of the unknown. 
+
+Today marks the commencement of a new chapter, a fresh page in my book of life. With each turn of the page, my learning story unfolds, and yet the ending remains unwritten, waiting to be shaped by every choice, every experience, every project. 
+
+Join me as we embark on this learning adventure together, where the narrative is ever-evolving, and the possibilities are endless, limited only by our imaginations. 
+
+Read on, for the best chapters are yet to come.
+
+> Inspired by the essence of Natasha Bedingfield's song `Unwritten`.
 {: .prompt-tip }
