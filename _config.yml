@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Martin Ferrero-Thompson
+  name: Design Code Mastery
   email: designcodemastery@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -43,6 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
      - https://www.linkedin.com/in/martin-ferrero-thompson
+     - https://www.instagram.com/designcodemastery
 
 google_site_verification: # fill in to your verification string
 
