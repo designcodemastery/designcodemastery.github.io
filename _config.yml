@@ -14,9 +14,9 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DCMastery Blog
+title: D-C-M Blog
 
-tagline: Design Code Mastery Empowering Creativity, Together in Code. # it will display as the sub-title
+tagline: "Design Code Mastery: Empowering Creativity, Together in Code." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   DesignCodeMastery- Your hub for unleashing creativity through coding, empowering collaborative learning experiences.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Design Code Mastery
-  email: designcodemastery@proton.me # change to your email address
+  email: design.code.mastery@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/DesignCodeMastery # change to your twitter homepage
