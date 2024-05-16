@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 **Welcome to my blog,** where every moment is an ***opportunity*** to learn something new, where life unfolds with arms wide open, embracing the limitless bounds of the unknown. 
