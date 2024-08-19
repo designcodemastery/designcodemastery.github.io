@@ -54,3 +54,9 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## To build and serve site [IMPORTANT]
+
+```console
+$ bundle exec jekyll s --incremental
+```
