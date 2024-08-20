@@ -1,11 +1,9 @@
 ---
 # the default layout is 'page'
 icon: fas fa-diagram-project
-order: 2
+order: 3
 ---
+Here I showcase past and future projects:
 
-# Projects Past and Future...
-
-## PlaceHolder for Project: 001
-
-## Placeholder for Project: 002
+#### 1. Large Scale Virtualisation Server (Dell Poweredge T710 - VMware ESXi)
+#### 2. Small Scale Cluster Setup (Raspberry Pi4 - 8 node cluster with k3s)
