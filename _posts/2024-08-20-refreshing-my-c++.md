@@ -18,7 +18,7 @@ I decided to bring myself a little more up-to-date with this introductory tutori
 
 #### Notes:
 1. I am going to start by provisioning a Windows 11 Hyper-V Virtual Machine for this developer environment.
-2. Installation of Visual Studio 2022 Community Edition - I chose this over VS Code as I expect that when I return to professional development Visual Studio will be the preferred option.
+2. Installation of Visual Studio Code.
 3. Build a quick test app - HelloWorld, Done, Success so let's move on.
 
 ### Part Two: A Deeper Dive - C++ in One Hour a Day (Sams Teach Yourself)
@@ -33,7 +33,54 @@ I had started reading this book about a year ago, and at the time thought that m
 - Software engineers often use C++ as the language of choice for research by physicists and mathematicians - although I believe that languages such as Python are probably in greater use in these areas <- this is my belief.
 
 2. Programming First C++ Application (HelloWorld):
+- Create Hello.cpp
 
+```c++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello Martin, Welcome to the world of C++" << std::endl;
+    return 0;
+}
+```
+
+Exercises
+1. Predict code output.
+
+```c++
+#include <iostream>
+
+int main() {
+    int x = 8;
+    int y = 6;
+    std::cout << std::endl;
+    std::cout << x - y << " " << x * y << " " << x + y;
+    std::cout << std::endl;
+    return 0;
+}
+```
+Expected output - "2 48 14"
+2. Actual output: 2 48 14 [success]
+3. What is the error in this program?
+
+```c++
+include <iostream>
+
+int main() {
+    std::cout << "Hello Buggy World \n";
+    return 0;
+}
+```
+4. Corrected program - was missing the "#" for the _include_ directive.
+
+```c++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello Buggy World \n";
+    return 0;
+}
+```
 
 ### Part Three: Sample C++ Applications
 The goal of this part is to actually build out a few sample C++ applications to prectice what I am learning on the C++ journey.
@@ -49,4 +96,4 @@ The goal of this part is to actually build out a few sample C++ applications to 
 >
 > Modified By: _Martin Thompson_
 >
-> Last Modified: August 23, 2024-14:20:00
+> Last Modified: August 26, 2024-10:38:00
