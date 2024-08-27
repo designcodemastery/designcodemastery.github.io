@@ -6,7 +6,7 @@ categories: [Learning, C++]
 tags: [tic-tac-toe]
 ---
 
-### Aims:
+### Aims for Tic-Tac-Toe:
 
 The primary aim of the project is to put into practice some of the C++ I am relearning along with that which I can recall from the dark, distant past, and maybe a little AI guidance.
 

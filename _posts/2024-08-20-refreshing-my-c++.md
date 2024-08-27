@@ -113,7 +113,21 @@ void MyFunction()
 ```
 7. The Concept of Namespaces
     1. Namespaces are names give to parts of code that help in reducing the potential for naming conflict
-    2. By using **std::cout** we are telling the compiler to use that one unique **cout** that is provided in the **std** namespace
+    2. By using **std::cout** we are telling the compiler to use that one unique **cout** that is provided in the **std** namespace, for example
+    ```c++
+    #include <iostream>
+
+    int main() {
+        using namespace std;
+
+        cout << "Hello Martin, Welcome to the world of C++" << endl;
+
+        return 0;
+    }
+    ```
+8. Functions in C++
+    1. Functions enable us to divide the content of the application into functional units that cab be invoked in a sequence of our choosing.
+    2. A function, when invoked, typically returns a value to the invoking/calling function.
 
 
 ### Part Three: Sample C++ Applications
