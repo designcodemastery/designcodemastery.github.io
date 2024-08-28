@@ -39,7 +39,7 @@ I had started reading this book about a year ago, and at the time thought that m
 #include <iostream>
 
 int main() {
-    std::cout << "Hello Martin, Welcome to the world of C++" << std::endl;
+    std::cout << "Hello Martin, Welcome to the world of modern day C++" << std::endl;
     return 0;
 }
 ```
@@ -97,7 +97,7 @@ int main() {
     4. In this instance **argc** would contain the number of arguments and **argv[]** would be an array of strings containing the actual arguments(?)
 3. code that does the actual work in this application
 ```c++
-    std::cout << "Hello Martin, Welcome to the world of C++" << std::endl;
+    std::cout << "Hello Martin, Welcome to the world of modern day C++" << std::endl;
 ```
 4. ***cout*** ("console-out" - pronounced see-out)
     1. ***cout*** is a _stream_ defined by the standard ***std*** _namespace_
@@ -108,30 +108,33 @@ int main() {
     2. This value is returned back to the operating system (O/S)
     3. It is convention that a value of 0 would indicate success and that a value if -1 would indicate an error has occured
     4. The follwing would be an example of a function that returns no value
-```C++
-void MyFunction()
+```c++
+void MyFunction() {
+    ...doSomething...
+}
 ```
 7. The Concept of Namespaces
     1. Namespaces are names give to parts of code that help in reducing the potential for naming conflict
-    2. By using **std::cout** we are telling the compiler to use that one unique **cout** that is provided in the **std** namespace, for example
+    2. By using **std::cout** we are telling the compiler to use that one unique **cout** that is provided in the **std** namespace, for example  
+
     ```c++
     #include <iostream>
 
     int main() {
         using namespace std;
 
-        cout << "Hello Martin, Welcome to the world of C++" << endl;
+        cout << "Hello Martin, Welcome to the world of modern day C++" << endl;
 
         return 0;
     }
     ```
 8. Functions in C++
-    1. Functions enable us to divide the content of the application into functional units that cab be invoked in a sequence of our choosing.
+    1. Functions enable us to divide the content of the application into functional units that can be invoked in a sequence of our choosing.
     2. A function, when invoked, typically returns a value to the invoking/calling function.
 
 
 ### Part Three: Sample C++ Applications
-The goal of this part is to actually build out a few sample C++ applications to prectice what I am learning on my C++ journey.
+The goal of this part is to actually build out a few simple C++ applications to practice what I am learning on my C++ journey.
 
 1. C++ Application: Tic-Tac-Toe
 2. C++ Application: Basic Inventory Management System 

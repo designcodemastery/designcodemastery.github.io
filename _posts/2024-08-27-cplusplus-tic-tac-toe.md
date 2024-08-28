@@ -8,7 +8,7 @@ tags: [tic-tac-toe]
 
 ### Aims for Tic-Tac-Toe:
 
-The primary aim of the project is to put into practice some of the C++ I am relearning along with that which I can recall from the dark, distant past, and maybe a little AI guidance.
+The primary aim of the project is to put into practice some of the C++ I am relearning along with that which I can recall from the dark, distant past, and maybe with a little AI guidance.
 
 #### Outline:
 1. Simple console app
@@ -23,4 +23,4 @@ The primary aim of the project is to put into practice some of the C++ I am rele
 >
 > Modified By: _Martin Thompson_
 >
-> Last Modified: August 26, 2024-10:38:00
+> Last Modified: August 28, 2024-13:00:00
