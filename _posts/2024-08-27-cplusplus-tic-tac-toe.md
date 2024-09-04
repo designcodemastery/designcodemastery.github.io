@@ -8,14 +8,18 @@ tags: [tic-tac-toe]
 
 ### Aims for Tic-Tac-Toe:
 
-The primary aim of the project is to put into practice some of the C++ I am relearning along with that which I can recall from the dark, distant past, and maybe with a little AI guidance.
+The primary aim of the project is to put into practice some of the C++ I am relearning along with that which I can recall from the dark, distant past, and with some influence from a Python version I built a while ago.
 
 #### Outline:
-1. Simple console app
-2. Against the computer
-3. Random function determines who has first move
-4. Optional/stretch goal, allow the user to challenge the computer to a "best of" tournament
+1. Simple console app, using the python Tic-Tac-Toe I built in the Python training course in 2020-21.
+2. Against the computer. A random function determines who has first move as X.
+3. Prompts the challenger for name to make it sound a little more friendly.
+4. Computer move randomly picks one of the remaining free cells.
+5. At the end of the game, we ask the challenger if they would like another game.
 
+#### GitHub Repo:
+
+The source code, along with the documentation for setup, build, etc. can be found in my [GitHub](https://github.com/designcodemastery/cplusplus-tic-tac-toe).    
 
 > As always, happy to hear your thoughts... 
 {: .prompt-tip }
@@ -23,4 +27,4 @@ The primary aim of the project is to put into practice some of the C++ I am rele
 >
 > Modified By: _Martin Thompson_
 >
-> Last Modified: August 28, 2024-13:00:00
+> Last Modified: September 4, 2024-11:30:00
