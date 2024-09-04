@@ -50,6 +50,10 @@ google_site_verification: 0ru2D2mjEJnJOJL4zvpxluBpALUPeHFuIfQfQRG91f8
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+url: "https://designcodemastery.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 google_analytics:
   id: GTM-TCG7FPGW
 
