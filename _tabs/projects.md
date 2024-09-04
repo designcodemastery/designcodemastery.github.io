@@ -3,7 +3,20 @@
 icon: fas fa-diagram-project
 order: 3
 ---
-Here I showcase past and future projects:
+Here I will showcase my past and future projects:
 
-#### 1. Large Scale Virtualisation Server (Dell Poweredge T710 - VMware ESXi)
-#### 2. Small Scale Cluster Setup (Raspberry Pi4 - 8 node cluster with k3s)
+### [C++ Tic-Tac-Toe Console Application](https://designcodemastery.com/posts/cplusplus-tic-tac-toe/)
+
+
+#### Large Scale Virtualisation Server (Dell Poweredge T710 - VMware ESXi)
+#### Small Scale Cluster Setup (Raspberry Pi4 - 8 node cluster with k3s)
+#### Audio Streaming Setup
+
+
+> As always, happy to hear your thoughts... 
+{: .prompt-tip }
+
+>
+> Modified By: _Martin Thompson_
+>
+> Last Modified: September 4, 2024-11:30:00
