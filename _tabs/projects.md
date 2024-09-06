@@ -4,8 +4,12 @@ icon: fas fa-diagram-project
 order: 3
 ---
 Here I will showcase my past and future projects:
+```text
+Note to Self: Work on laying this out in a more friendly style
+```
 
-### [C++ Tic-Tac-Toe Console Application](https://designcodemastery.com/posts/cplusplus-tic-tac-toe/)
+### 1. [C++ Tic-Tac-Toe Console Application](https://designcodemastery.com/posts/cplusplus-tic-tac-toe/) [Software Engineering]
+### 2. Fleet Mucky Mayhem Bootstrap 5 Website [WIP] 
 
 
 #### Large Scale Virtualisation Server (Dell Poweredge T710 - VMware ESXi)
