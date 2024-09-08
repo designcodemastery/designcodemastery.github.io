@@ -55,7 +55,7 @@ plugins:
   - jekyll-sitemap
 
 google_analytics:
-  id: GTM-TCG7FPGW
+  id: G-FKZXTZR10C
 
 goatcounter:
   id: # fill in your Goatcounter ID
