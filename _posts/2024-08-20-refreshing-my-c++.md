@@ -136,7 +136,7 @@ void MyFunction() {
 ### Part Three: Sample C++ Applications
 The goal of this part is to actually build out a few simple C++ applications to practice what I am learning on my C++ journey.
 
-1. C++ Application: Tic-Tac-Toe
+1. C++ Application: Tic-Tac-Toe [DONE]
 2. C++ Application: Basic Inventory Management System 
 3. C++ Application: Personal Expense Tracker
 
