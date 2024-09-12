@@ -19,19 +19,19 @@ VS Code Profile... Maybe I should look into these and look to implement these in
 
 So this is my task for today. Although not directly on my list of learnings, I decided this could only help to optimise my developer process.
 
-#### Outline:
+### Outline:
 1. I exported my current settings, extensions from the default profile.
 2. Saved this to my [github](https://github.com/designcodemastery/vscode-profiles).
 3. Deleted all the installed extensions.
 4. Start creating a series of specific VS Code Profiles.
 
-#### VSCode Profile: C++ with CMake and Ninja
+#### 1. VSCode Profile: C++ with CMake and Ninja
 This is the first VSCode Profile I am creating as I intend to use this for a couple of my upcoming projects.
 
 This can be found on my [github](https://github.com/designcodemastery/vscode-cplusplus-profile) along with a simple C++ app that I used for testing it.
 
 
-#### So, What did I learn?
+### So, What did I learn?
 
 1. VS Code's profiles allow me to customise settings, extensions, keybindings, and other configurations for specific types of projects or workflows.
 
