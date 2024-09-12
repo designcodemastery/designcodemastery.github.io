@@ -23,7 +23,13 @@ So this is my task for today. Although not directly on my list of learnings, I d
 1. I exported my current settings, extensions from the default profile.
 2. Saved this to my [github](https://github.com/designcodemastery/vscode-profiles).
 3. Deleted all the installed extensions.
-4. Start creating a series of specific VS Code Profiles....
+4. Start creating a series of specific VS Code Profiles.
+
+#### VSCode Profile: C++ with CMake and Ninja
+This is the first VSCode Profile I am creating as I intend to use this for a couple of my upcoming projects.
+
+This can be found on my [github](https://github.com/designcodemastery/vscode-cplusplus-profile) along with a simple C++ app that I used for testing it.
+
 
 #### So, What did I learn?
 
@@ -37,4 +43,4 @@ So this is my task for today. Although not directly on my list of learnings, I d
 >
 > Modified By: _Martin Thompson_
 >
-> Last Modified: September 6, 2024-13:30:00
+> Last Modified: September 12, 2024-15:30:00
