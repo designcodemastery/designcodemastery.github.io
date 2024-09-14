@@ -12,7 +12,7 @@ The primary aims of this are:
 1. Strengthen my knowledge in this domain
 2. Create more sample projects for my portfolio
 
-### Part One: 
+### Part One: Setup Environment
 
 
 
