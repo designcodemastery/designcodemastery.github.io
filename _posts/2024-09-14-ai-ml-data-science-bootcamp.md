@@ -6,13 +6,17 @@ categories: [Learning]
 tags: [AI, ML, Data Science]
 ---
 
-### Aims:
+# ZTM Bootcamp
+
+## Aims:
 
 The primary aims of this are:
 1. Strengthen my knowledge in this domain
-2. Create more sample projects for my portfolio
+2. Create more AI, ML & Data Science sample projects for my portfolio
 
-### Part One: Setup Environment
+### GitHub Repo for this bootcamp
+
+I have created a repo on GitHub for this Bootcamp, you can find it [here!](https://github.com/designcodemastery/ztm-ai-ml-data-science-bootcamp)
 
 
 
