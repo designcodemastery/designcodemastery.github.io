@@ -24,6 +24,7 @@ I have created a repo on GitHub for this Bootcamp, you can find it [here](https:
 - Section 4: The 2 Paths (Python / ML) completed.
 - Section 5: Data Science Environment Setup completed.
 - Section 6: Pandas Data Analysis completed.
+- Section 7: NumPy - WIP
 
 
 > As always, happy to hear your thoughts... 
